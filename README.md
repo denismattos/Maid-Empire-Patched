@@ -1,6 +1,5 @@
 This is a simple patched version that corrects a few syntax errors and updates ptliem007's [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/ptliem007) [Maid Empire](https://github.com/ptliem007/Maid-Empire) to conform to Unciv's current standards.  
 I also implemented Unciv's mod autoupdate to make it easier to keep the patch up-to-date.
-
 ## Ownership Disclaimer
 Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/emipa606). 🙂
 
@@ -9,3 +8,5 @@ Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png">](https
 * I claim no ownership of the original mod.
 * The original author is free to use this mod to update their own.
 * Since I did not create the original mod, I will not accept donations for this mod of a mod.
+## Original Mod Description
+Unciv mod - Maid Empire, made based on the 'maid war' trend on Internet. Time to Maid Empire expansion border to world of Unciv! Master, we need your help to expansion us Empire on new world.
