@@ -5,6 +5,6 @@
 			"[+50]% Strength <vs cities>",
 			"[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
 			"[+5] HP when healing <in [Foreign Land] tiles>"
-		],
-	},
+		]
+	}
 ]

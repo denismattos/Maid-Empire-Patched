@@ -1,0 +1,1 @@
+Maid Empire_Patched: (Building) Maid Mansion's unique "[+1] Culture <after discovering [Archaeology]>" not found in Unciv's unique types, and is not used as a filtering unique.
