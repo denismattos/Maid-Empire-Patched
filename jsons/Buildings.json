@@ -8,7 +8,7 @@
 		"cityStrength": 2,
 		"cost": 90,
 		"uniques": [
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"[+1 Culture] <after discovering [Archaeology]>"
 		],
 		"requiredTech": "Mathematics"
