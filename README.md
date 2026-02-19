@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="372" height="372" src="https://raw.githubusercontent.com/denismattos/Maid-Empire-Patched/refs/heads/master/preview.png">
+</p>
+
 # Maid Empire – Patched
 
 Simple patched version that corrects a few syntax errors and updates ptliem007's [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/ptliem007) [Maid Empire](https://github.com/ptliem007/Maid-Empire) to conform to Unciv's current standards.  
