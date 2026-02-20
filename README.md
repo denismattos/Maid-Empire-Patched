@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="372" height="372" src="https://raw.githubusercontent.com/denismattos/Maid-Empire-Patched/refs/heads/master/preview.png">
+  <img width="224" height="217" src="https://raw.githubusercontent.com/denismattos/Maid-Empire-Patched/refs/heads/master/preview.png">
 </p>
 
 # Maid Empire – Patched
