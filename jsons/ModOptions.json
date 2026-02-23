@@ -1,10 +1,9 @@
 {
     "modUrl": "https://github.com/denismattos/Maid-Empire_Fix",
     "defaultBranch": "master",
-    "author": "denismattos",
+    "author": "ptliem007",
     "topics": [
-        "unciv-mod",
-        "unciv-mod-modsofmods"
+        "unciv-mod"
     ],
     "uniques": [
         "Cannot be used as permanent audiovisual mod"
