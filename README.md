@@ -1,15 +1,15 @@
 <p align="center">
-  <img width="224" height="217" src="https://raw.githubusercontent.com/denismattos/Maid-Empire-Patched/refs/heads/master/preview.png">
+  <img width="224" height="217" src="https://raw.githubusercontent.com/denismattos/Maid-Empire-Patched/refs/heads/master/preview.png" alt="ptliem007's Portrait">
 </p>
 
 # Maid Empire – Patched
 
-Simple patched version that corrects a few syntax errors and updates ptliem007's [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/ptliem007) [Maid Empire](https://github.com/ptliem007/Maid-Empire) to conform to Unciv's current standards.  
+Simple patched version that corrects a few syntax errors and updates ptliem007's [<img src="https://i.imgur.com/qdtKSSq.png" alt="GitHub Logo">](https://github.com/ptliem007) [Maid Empire](https://github.com/ptliem007/Maid-Empire) to conform to Unciv's current standards.  
 I also implemented Unciv's mod autoupdate to make it easier to keep the patch up-to-date.
 
 ## Ownership Disclaimer
 
-Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png">](https://github.com/emipa606). 🙂
+Inspired by the awesome Mlie [<img src="https://i.imgur.com/qdtKSSq.png" alt="GitHub Logo">](https://github.com/emipa606). 🙂
 
 - This is a modification of an existing mod.
 - This was supposed to be a patch, but the original cannot be used as a dependency, as it contains red errors and Unciv refuses to load it.
